@@ -2,14 +2,15 @@
 
 ### Transformer-based Time Series Modeling | Trajectory Prediction
 
-🎓 Nanjing University of Posts and Telecommunications (NUPT)
+🎓 Nanjing University of Posts and Telecommunications (NJUPT)
+
 📊 Ranked **3/165 (Top 1.8%)**
 
 ---
 
 ## 🧠 About Me
 
-I am an undergraduate student majoring in **Network Engineering** at NUPT.
+I am an undergraduate student majoring in **Network Engineering** at NJUPT.
 My research focuses on **Transformer-based time series modeling**, especially in **vehicle trajectory prediction**.
 
 I am particularly interested in:
