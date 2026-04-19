@@ -11,12 +11,13 @@
 I am an undergraduate student majoring in **Network Engineering** at NJUPT.
 My research focuses on **Transformer-based time series modeling**, especially in **vehicle trajectory prediction**.
 
-I am particularly interested in:
+🔬I am particularly interested in:
 
 * Time series modeling
 * Transformer architectures
 * Trajectory prediction
 * Practical AI applications
+* Computer vision (object detection)
 
 ---
 
@@ -60,7 +61,7 @@ I am particularly interested in:
 
 ## 🛠 Skills
 
-* **Programming:** Python, C/C++, Java
+* **Programming:** Python, C/C++
 * **Framework:** PyTorch
 * **Modeling:** Time Series Modeling, Transformer
 * **Evaluation Metrics:** ADE, FDE, MR
