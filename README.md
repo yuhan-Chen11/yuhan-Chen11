@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Yuhan Chen
 
-### Transformer-based Time Series Modeling | Trajectory Prediction
-
 🎓 Nanjing University of Posts and Telecommunications (NJUPT)
 
 📊 Ranked **3/165 (Top 1.8%)**
