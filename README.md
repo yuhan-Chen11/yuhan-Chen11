@@ -1,63 +1,70 @@
 # 👋 Hi, I'm Yuhan Chen
 
-🎓 Nanjing University of Posts and Telecommunications
-📊 Ranked 3/165 (Top 1.8%)
+### Transformer-based Time Series Modeling | Trajectory Prediction
+
+🎓 Nanjing University of Posts and Telecommunications (NUPT)
+📊 Ranked **3/165 (Top 1.8%)**
 
 ---
 
 ## 🧠 About Me
 
-I focus on **Transformer-based time series modeling**,
-with applications in **vehicle trajectory prediction**.
+I am an undergraduate student majoring in **Network Engineering** at NUPT.
+My research focuses on **Transformer-based time series modeling**, especially in **vehicle trajectory prediction**.
 
-I also have experience in **computer vision tasks** in real-world scenarios.
+I am particularly interested in:
+
+* Time series modeling
+* Transformer architectures
+* Trajectory prediction
+* Practical AI applications
 
 ---
 
-## 🚗 Research & Projects
+## 🚗 Research Experience
 
-### 🔹 Trajectory Prediction (Time Series Modeling)
+### 🔹 Transformer-based Vehicle Trajectory Prediction
 
-📌 Task: Vehicle trajectory prediction (DJI / NGSIM)
-
-🔧 What I did:
-
-* Reproduced and analyzed multiple advanced models
+* Reproduced and analyzed multiple representative time series models
   *(xLSTMMixer, TimePerceiver, iTransformer)*
-* Built a unified experimental framework for fair comparison
-* Conducted module-level analysis on temporal dependency and variable interaction
-* Explored structural improvements (e.g., Attention Residual mechanisms)
-
-📊 Results:
-
-* Achieved **~4% improvement in FDE** over baseline
-* Evaluated using ADE / FDE / MR metrics
+* Built a unified experimental framework under consistent training settings
+* Conducted ablation studies on temporal dependency and variable interaction modeling
+* Explored structural improvements with **Attention Residual (AttnRes)** mechanisms
+* Achieved **~4% improvement in FDE** over baseline on the DJI dataset
 
 🛠 Tech Stack: PyTorch, Transformer, Time Series Modeling
+📊 Metrics: ADE / FDE / MR
 
 ---
 
-### 🔹 Road Damage Detection (Computer Vision)
+## 👁️ Computer Vision Experience
 
-📌 Task: Road surface damage detection system
+### 🔹 Road Damage Detection System (YOLOv10)
 
-🔧 What I did:
+* Participated in a computer vision project for road damage detection
+* Focused on the **inference pipeline** and detection result analysis
+* Understood the full workflow from image input to detection output
+* Participated in integrating detection results with **GPS-based localization** and visualization
 
-* Participated in the development of a road damage detection system
-* Built and analyzed the model inference pipeline based on YOLOv10
-* Involved in data preprocessing, feature extraction and result analysis
-* Contributed to integrating detection results with GPS-based localization
-
-🛠 Tech Stack: PyTorch, Computer Vision, Object Detection
+🛠 Tech Stack: Computer Vision, Object Detection
 
 ---
 
-## 🔬 Research Interests
+## 🏆 Selected Awards
 
-* Time Series Modeling
-* Transformer Architecture
-* Computer Vision
-* Intelligent Systems
+* 🥇 Yuanben Scholarship *(the only recipient in the major)*
+* 🥇 First-Class Scholarship
+* 🥉 National Third Prize, Lanqiao Cup (Python Programming)
+* 🥉 National Third Prize, National English Competition
+
+---
+
+## 🛠 Skills
+
+* **Programming:** Python, C/C++, Java
+* **Framework:** PyTorch
+* **Modeling:** Time Series Modeling, Transformer
+* **Evaluation Metrics:** ADE, FDE, MR
 
 ---
 
