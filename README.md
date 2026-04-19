@@ -50,15 +50,6 @@ My research focuses on **Transformer-based time series modeling**, especially in
 
 ---
 
-## 🏆 Selected Awards
-
-* 🥇 Yuanben Scholarship *(the only recipient in the major)*
-* 🥇 First-Class Scholarship
-* 🥉 National Third Prize, Lanqiao Cup (Python Programming)
-* 🥉 National Third Prize, National English Competition
-
----
-
 ## 🛠 Skills
 
 * **Programming:** Python, C/C++
