@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Yuhan Chen
 
 🎓 Nanjing University of Posts and Telecommunications
-
-📊 Top 1.8% (3/165)
+📊 Ranked 3/165 (Top 1.8%)
 
 ---
 
 ## 🧠 About Me
 
 I focus on **Transformer-based time series modeling**,
-with applications in **trajectory prediction** for intelligent systems.
+with applications in **vehicle trajectory prediction**.
 
-I also explore **computer vision techniques** for real-world scenarios.
+I also have experience in **computer vision tasks** in real-world scenarios.
 
 ---
 
@@ -19,19 +18,20 @@ I also explore **computer vision techniques** for real-world scenarios.
 
 ### 🔹 Trajectory Prediction (Time Series Modeling)
 
-📌 Task: Vehicle trajectory prediction (DJI / NGSIM datasets)
+📌 Task: Vehicle trajectory prediction (DJI / NGSIM)
 
 🔧 What I did:
 
-* Reproduced multiple advanced time series models
+* Reproduced and analyzed multiple advanced models
   *(xLSTMMixer, TimePerceiver, iTransformer)*
 * Built a unified experimental framework for fair comparison
-* Designed structure-level improvements for feature fusion
+* Conducted module-level analysis on temporal dependency and variable interaction
+* Explored structural improvements (e.g., Attention Residual mechanisms)
 
 📊 Results:
 
 * Achieved **~4% improvement in FDE** over baseline
-* Evaluated using ADE / FDE / MR across multiple prediction horizons
+* Evaluated using ADE / FDE / MR metrics
 
 🛠 Tech Stack: PyTorch, Transformer, Time Series Modeling
 
@@ -39,12 +39,14 @@ I also explore **computer vision techniques** for real-world scenarios.
 
 ### 🔹 Road Damage Detection (Computer Vision)
 
-📌 Task: Road surface damage detection
+📌 Task: Road surface damage detection system
 
 🔧 What I did:
-- Implemented object detection models (e.g., YOLO) for road damage scenarios  
-- Completed data processing, training and evaluation  
-- Analyzed model performance under different conditions  
+
+* Participated in the development of a road damage detection system
+* Built and analyzed the model inference pipeline based on YOLOv10
+* Involved in data preprocessing, feature extraction and result analysis
+* Contributed to integrating detection results with GPS-based localization
 
 🛠 Tech Stack: PyTorch, Computer Vision, Object Detection
 
@@ -56,14 +58,6 @@ I also explore **computer vision techniques** for real-world scenarios.
 * Transformer Architecture
 * Computer Vision
 * Intelligent Systems
-
----
-
-## 🔭 Future Directions
-
-* Multimodal sequence modeling
-* Efficient Transformer architectures
-* Real-world AI applications
 
 ---
 
