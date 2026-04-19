@@ -1,42 +1,72 @@
-# Hi, I'm Yuhan Chen 👋
+# 👋 Hi, I'm Yuhan Chen
 
-🎓 Undergraduate @ Nanjing University of Posts and Telecommunications  
-📊 Rank: Top 1.8% (3/165)  
-
----
-
-## 🧠 Research Interests
-
-- Time Series Modeling  
-- Transformer Architecture  
-- Trajectory Prediction  
-- Multi-variable Interaction  
+🎓 Nanjing University of Posts and Telecommunications
+📊 Top 1.8% (3/165)
 
 ---
 
-## 🚗 Core Project: Trajectory Prediction
+## 🧠 About Me
 
-📌 Task: Vehicle trajectory prediction (DJI / NGSIM)
+I focus on **Transformer-based time series modeling**,
+with applications in **trajectory prediction** for intelligent systems.
 
-🔧 My Work:
-- Reproduced multiple time series models (xLSTMMixer, TimePerceiver, iTransformer)
-- Built a unified experimental framework
-- Designed structure-level improvements for feature fusion
+I also explore **computer vision techniques** for real-world scenarios.
+
+---
+
+## 🚗 Research & Projects
+
+### 🔹 Trajectory Prediction (Time Series Modeling)
+
+📌 Task: Vehicle trajectory prediction (DJI / NGSIM datasets)
+
+🔧 What I did:
+
+* Reproduced multiple advanced time series models
+  *(xLSTMMixer, TimePerceiver, iTransformer)*
+* Built a unified experimental framework for fair comparison
+* Designed structure-level improvements for feature fusion
 
 📊 Results:
-- Achieved ~4% improvement in FDE over baseline  
-- Evaluated using ADE / FDE / MR  
+
+* Achieved **~4% improvement in FDE** over baseline
+* Evaluated using ADE / FDE / MR across multiple prediction horizons
+
+🛠 Tech Stack: PyTorch, Transformer, Time Series Modeling
+
+---
+
+### 🔹 Road Damage Detection (Computer Vision)
+
+📌 Task: Road surface damage detection
+
+🔧 What I did:
+
+* Built a detection system based on deep learning models (e.g., YOLO)
+* Applied object detection techniques to real-world road scenarios
+* Improved robustness under different lighting and road conditions
+
+🛠 Tech Stack: PyTorch, Computer Vision, Object Detection
+
+---
+
+## 🔬 Research Interests
+
+* Time Series Modeling
+* Transformer Architecture
+* Computer Vision
+* Intelligent Systems
 
 ---
 
 ## 🔭 Future Directions
 
-- Multimodal learning  
-- Efficient Transformer design  
-- Real-world AI applications  
+* Multimodal sequence modeling
+* Efficient Transformer architectures
+* Real-world AI applications
 
 ---
 
 ## 📫 Contact
 
-Email: B23080202@njupt.edu.cn
+📧 Email: b23080202@njupt.edu.cn
