@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Yuhan Chen 👋
 
-<!--
-**yuhan-Chen11/yuhan-Chen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate @ Nanjing University of Posts and Telecommunications  
+📊 Rank: Top 1.8% (3/165)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Research Interests
+
+- Time Series Modeling  
+- Transformer Architecture  
+- Trajectory Prediction  
+- Multi-variable Interaction  
+
+---
+
+## 🚗 Core Project: Trajectory Prediction
+
+📌 Task: Vehicle trajectory prediction (DJI / NGSIM)
+
+🔧 My Work:
+- Reproduced multiple time series models (xLSTMMixer, TimePerceiver, iTransformer)
+- Built a unified experimental framework
+- Designed structure-level improvements for feature fusion
+
+📊 Results:
+- Achieved ~4% improvement in FDE over baseline  
+- Evaluated using ADE / FDE / MR  
+
+---
+
+## 🔭 Future Directions
+
+- Multimodal learning  
+- Efficient Transformer design  
+- Real-world AI applications  
+
+---
+
+## 📫 Contact
+
+Email: xxx
