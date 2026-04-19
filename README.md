@@ -42,10 +42,9 @@ I also explore **computer vision techniques** for real-world scenarios.
 📌 Task: Road surface damage detection
 
 🔧 What I did:
-
-* Built a detection system based on deep learning models (e.g., YOLO)
-* Applied object detection techniques to real-world road scenarios
-* Improved robustness under different lighting and road conditions
+- Implemented object detection models (e.g., YOLO) for road damage scenarios  
+- Completed data processing, training and evaluation  
+- Analyzed model performance under different conditions  
 
 🛠 Tech Stack: PyTorch, Computer Vision, Object Detection
 
